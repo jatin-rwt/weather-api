@@ -1,0 +1,4 @@
+creating a weather app api "Aur mausam kesa hai??" using https://www.weatherapi.com/
+create account on https://www.weatherapi.com/ and create your key 
+create input field to take input for the user (city) and submit button
+and eventlisteners to the button using id
